@@ -11,10 +11,10 @@ export class AppComponent  {
 
   employee = [
     'Ahmed Ali Khan',
-    'Ali Saqib Memon ',
+    'Ali Saqib  ',
     'Bilal khan Sulani',
-    'Munsif khan baba',
-    'Javed memon Jarawala',
+    'Munsif khan ',
+    'Javed memon ',
     'Wahab memon',
     'jalal sons',
     'junaif javed choudry'
